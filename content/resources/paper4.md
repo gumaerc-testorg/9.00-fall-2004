@@ -7,6 +7,7 @@ file: /courses/9-00-introduction-to-psychology-fall-2004/6b8d4099a8e5ffac23b066d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: paper4.pdf
 uid: 6b8d4099-a8e5-ffac-23b0-66d57f5f1ac7
 ---
 This resource includes instructions to write a reveised paper. The revised paper must make use of at least two scholarly sources beyond what students used in the original paper.
-

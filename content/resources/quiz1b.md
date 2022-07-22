@@ -5,6 +5,7 @@ file: /courses/9-00-introduction-to-psychology-fall-2004/ecd8791db17720648af28a4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1b.pdf
 uid: ecd8791d-b177-2064-8af2-8a4cf5f00fff
 ---
 This resource includes 10 questions based on the readings of course textbook.
-
