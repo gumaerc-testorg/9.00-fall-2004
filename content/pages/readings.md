@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Readings section includes topic wise distribution of textbook readings
+  and assigned papers.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 03790e86-6203-003d-22b7-195048e6fab5
 ---

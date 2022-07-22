@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Assignments section contains four papers to test students understanding
+  of course material.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dea1f4a9-d78f-23eb-128d-58c8375dab2e
 ---
@@ -35,12 +40,12 @@ On the server, there is a folder associated with each lecture and/or chapter. In
 The Four Papers
 ---------------
 
-Paper 1: Writing for the Public ([PDF]({{< baseurl >}}/resources/paper1))
+Paper 1: Writing for the Public ({{% resource_link d11122b4-482d-2d0b-7f53-43ea400c603a "PDF" %}})
 
-Paper 2: Taking the Next Step ([PDF]({{< baseurl >}}/resources/paper2))
+Paper 2: Taking the Next Step ({{% resource_link 92f64469-4173-09b5-6c0f-5419ee35848c "PDF" %}})
 
-Examples of Good and Bad Writing ([PDF]({{< baseurl >}}/resources/badwriting))
+Examples of Good and Bad Writing ({{% resource_link b23ffdd2-5e89-aa0b-62cb-25bade8a5057 "PDF" %}})
 
-Paper 3: Rewriting the Textbook ([PDF]({{< baseurl >}}/resources/paper3))
+Paper 3: Rewriting the Textbook ({{% resource_link f8177a9b-50c1-3892-52d0-b3bf429e8485 "PDF" %}})
 
-Paper 4: Revision ([PDF]({{< baseurl >}}/resources/paper4))
+Paper 4: Revision ({{% resource_link 6b8d4099-a8e5-ffac-23b0-66d57f5f1ac7 "PDF" %}})
