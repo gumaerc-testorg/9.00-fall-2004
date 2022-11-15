@@ -31,4 +31,3 @@ video_metadata:
   youtube_id: ''
 ---
 This reource includes the discussion on four questions: What does sleep behavior look like? How is it structured?, Why do we sleep? And what happens if we don't?, Why do we dream?, and Can we extract any meaning from our dreams?
-

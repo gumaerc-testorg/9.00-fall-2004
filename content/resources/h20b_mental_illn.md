@@ -32,4 +32,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes the discussion on three misguided theories: that all psychiatric problems are psychodynamic in nature, that all psychiatric problems are the product of a disordered brain, and that all psychiatric problems are essentially character flaws
-

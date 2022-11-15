@@ -30,4 +30,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource talks about some of the causes of mental illness and some of the ways that we might treat mental illness.
-
