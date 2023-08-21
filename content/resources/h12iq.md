@@ -31,4 +31,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes the discussion on the topic: Individual differences are fundamentally important in ways that they were not when we were talking about memory or perception.
-

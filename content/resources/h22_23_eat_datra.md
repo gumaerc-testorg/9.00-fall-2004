@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource talks about eating disorders and date rape.
-
