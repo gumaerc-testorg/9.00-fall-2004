@@ -30,4 +30,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource examines what Freud did believe. It also inlcudes the discussion on the topic: the mind was a unitary thing.
-
