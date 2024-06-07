@@ -5,6 +5,7 @@ description: 'This reource includes the discussion on four questions: What does 
   we don''t?, Why do we dream?, and Can we extract any meaning from our dreams?'
 draft: false
 file: /courses/9-00-introduction-to-psychology-fall-2004/09f82c46f81ea7868b5c5e6d2f065039_h19_sleep_dreams.pdf
+file_size: 120508
 file_type: application/pdf
 image_metadata:
   caption: ''

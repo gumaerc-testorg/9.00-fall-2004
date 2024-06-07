@@ -6,6 +6,7 @@ description: 'This resource includes the discussion on three misguided theories:
   character flaws'
 draft: false
 file: /courses/9-00-introduction-to-psychology-fall-2004/10c2f01ad071c50348710002c60c52ec_h20b_mental_illn.pdf
+file_size: 96340
 file_type: application/pdf
 image_metadata:
   caption: ''
