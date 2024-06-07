@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/9-00-introduction-to-psychology-fall-2004/mit9_00f04_lec07_360p_16_9.mp4
-file_size: 917371227
+file_size: 113491152
 file_type: video/mp4
 image_metadata:
   caption: ''
