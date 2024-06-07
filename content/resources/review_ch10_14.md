@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes review of chapters 10 to 14 of the course textbook.
 file: /courses/9-00-introduction-to-psychology-fall-2004/ff76cd7e6b5a824bdfa3f1b3ae6a0abe_review_ch10_14.pdf
+file_size: 66528
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

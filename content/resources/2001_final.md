@@ -3,6 +3,7 @@ content_type: resource
 description: This resource inlcudes 40 questions based on the psychological understanding
   of the student.
 file: /courses/9-00-introduction-to-psychology-fall-2004/5cc04865356013c874a99c72413614fa_2001_final.pdf
+file_size: 90446
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
