@@ -2,7 +2,7 @@
 content_type: resource
 description: The main goal of this resource is to draft a new piece for the Gleitman
   et al. textbook.
-file: /courses/9-00-introduction-to-psychology-fall-2004/f8177a9b50c1389252d0b3bf429e8485_paper3.pdf
+file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/f8177a9b50c1389252d0b3bf429e8485_paper3.pdf
 file_size: 96377
 file_type: application/pdf
 learning_resource_types:
