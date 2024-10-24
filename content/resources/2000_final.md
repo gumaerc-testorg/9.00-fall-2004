@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource inlcudes 35 questions based on psychological understanding
   of the student.
-file: /courses/9-00-introduction-to-psychology-fall-2004/50624874bb92fc99d4d2c60154008e0c_2000_final.pdf
+file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/50624874bb92fc99d4d2c60154008e0c_2000_final.pdf
 file_size: 82086
 file_type: application/pdf
 learning_resource_types: []
