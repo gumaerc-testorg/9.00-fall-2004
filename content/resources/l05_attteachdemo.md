@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides for lecture 5: visual perception and attention demonstrations,
   featuring visual search and change blindness.'
-file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/87a981ed5a37e277cf64cb7195138fe6_l05_attteachdemo.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/87a981ed5a37e277cf64cb7195138fe6_l05_attteachdemo.pdf
 file_size: 978164
 file_type: application/pdf
 learning_resource_types:
