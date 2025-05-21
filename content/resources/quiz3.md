@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 15 questions based on the readings of course textbook.
-file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/aa3b856ee366b1706d33cf42fc5b4209_quiz3.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/aa3b856ee366b1706d33cf42fc5b4209_quiz3.pdf
 file_size: 75339
 file_type: application/pdf
 learning_resource_types:

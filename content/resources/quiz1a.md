@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes 5 questions and one question for extra credit
   based on readings of chapter 4.
-file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/d73239cc9010fa22488cb5a631358843_quiz1a.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/d73239cc9010fa22488cb5a631358843_quiz1a.pdf
 file_size: 61926
 file_type: application/pdf
 learning_resource_types:
