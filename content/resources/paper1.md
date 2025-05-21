@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes some steps for writing for public. It inlcudes
   the criteria that you are writing a science news or feature article for publication
   in the science section of the newspaper.
-file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/d11122b4482d2d0b7f5343ea400c603a_paper1.pdf
+file: /courses/9-00-introduction-to-psychology-fall-2004/d11122b4482d2d0b7f5343ea400c603a_paper1.pdf
 file_size: 97358
 file_type: application/pdf
 learning_resource_types:
