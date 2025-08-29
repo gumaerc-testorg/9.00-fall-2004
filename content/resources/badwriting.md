@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the instructions of improving the handwriting.
   It also inlcudes some examples.
-file: /courses/9-00-introduction-to-psychology-fall-2004/b23ffdd25e89aa0b62cb25bade8a5057_badwriting.pdf
+file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/b23ffdd25e89aa0b62cb25bade8a5057_badwriting.pdf
 file_size: 78099
 file_type: application/pdf
 learning_resource_types:
