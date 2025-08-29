@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource inlcudes 38 questions based on the psychological understanding
   of the student. It also includes questions on a fairy tale.
-file: /courses/9-00-introduction-to-psychology-fall-2004/15e28366ab08088eb070cafdcd9973cd_2002_final.pdf
+file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/15e28366ab08088eb070cafdcd9973cd_2002_final.pdf
 file_size: 127079
 file_type: application/pdf
 learning_resource_types: []
