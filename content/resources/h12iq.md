@@ -4,7 +4,7 @@ description: 'This resource includes the discussion on the topic: Individual dif
   are fundamentally important in ways that they were not when we were talking about
   memory or perception.'
 draft: false
-file: /courses/9-00-introduction-to-psychology-fall-2004/6973aff60c60d533b0cd6aa883a75613_h12iq.pdf
+file: /ol-ocw-studio-app/courses/9-00-introduction-to-psychology-fall-2004/6973aff60c60d533b0cd6aa883a75613_h12iq.pdf
 file_size: 154791
 file_type: application/pdf
 image_metadata:
